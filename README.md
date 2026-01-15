@@ -81,5 +81,5 @@ The dashboard helps answer questions like:
 This E-Commerce Sales Dashboard provides a comprehensive and interactive way to analyze online sales data. By leveraging Power BI’s visualization and analytical capabilities, businesses can gain meaningful insights, improve decision-making, and optimize overall performance.
 
 12. Screenshots Of Dashboard
-    Show what the dashboard like. - ![Alt text](https://github.com/tusharsonawane04995/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SALES%20DASHBOARD.png)
-    example: ![Dashboard preview](https://github.com/tusharsonawane04995/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SALES%20DASHBOARD.png)
+    Show the dashboard like. - ![Alt text](https://github.com/tusharsonawane04995/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SALES%20DASHBOARD.png)
+   

@@ -1,4 +1,3 @@
-https://github.com/tusharsonawane04995/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SALES%20DASHBOARD.png
 # ECOMMERCE-SALES-DASHBOARD
 1. Project Overview
 The E-Commerce Sales Dashboard is a data visualization project developed using Microsoft Power BI to analyze and monitor online sales performance. The dashboard provides actionable insights into revenue trends, customer behavior, product performance, and regional sales distribution, helping stakeholders make data-driven business decisions.
